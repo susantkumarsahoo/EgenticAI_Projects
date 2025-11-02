@@ -6,6 +6,7 @@ python-dotenv
 langchain-core 
 langchain-community
 langchain_classic
-
-
+fastapi 
+uvicorn
+research-agent
 
